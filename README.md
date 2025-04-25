@@ -1,5 +1,5 @@
 # EXP.NO.8-Simulation-of-QPSK
-#Manickam Subbu (212223060147)
+Manickam Subbu (212223060147)
 
 8.Simulation of QPSK
 
